@@ -3,9 +3,9 @@
 **Mosquito Killer: Mosquito Game** is an exciting and addictive iOS and Mac app where you zap mosquitoes to score points. Stay sharp to avoid missing those pesky bugs! Built using Swift and SpriteKit, this game offers a simple yet challenging experience for players of all ages.
 
 <p align="center">
-    <img src="images/1.gif" width="320">
-    <img src="images/2.webp" width="320">
-    <img src="images/3.webp" width="320">
+    <img src="images/1.gif" width="240">
+    <img src="images/2.webp" width="240">
+    <img src="images/3.webp" width="240">
 </p>
 
 ## Game Description
