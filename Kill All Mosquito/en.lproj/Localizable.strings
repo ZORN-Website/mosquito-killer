@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Kill All Mosquito
+
+  Created by Banghua Zhao on 1/30/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+
+"Best Score" = "Best Score";
+"Level" = "Level";
+"Lives" = "Lives";
+"Score" = "Score";
+"Time" = "Time";
+"mosquitoes" = "mosquitoes";
+"Kill All Mosquito: Congratulations! You have killed" = "Kill All Mosquito: Congratulations! You have killed";

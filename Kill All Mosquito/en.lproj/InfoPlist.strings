@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Kill All Mosquito
+
+  Created by Banghua Zhao on 1/30/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Kill Mosquito";
+"NSUserTrackingUsageDescription" = "This identifier will be used to deliver personalized ads to you.";
